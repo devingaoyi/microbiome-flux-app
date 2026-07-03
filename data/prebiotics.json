@@ -1,0 +1,18 @@
+[
+  {
+    "prebiotic_id": "P_HMO_2FL_004",
+    "name_zh": "2'-岩藻糖基乳糖 (2'-FL)",
+    "substrate_class": "Complex_Oligosaccharide",
+    "glycosidic_linkages": ["α-(1→2)-Fuc", "β-(1→4)-Glc"],
+    "host_loss_rate": 0.00,
+    "osmotic_laxative_threshold": 15.0
+  },
+  {
+    "prebiotic_id": "P_MON_FRU_008",
+    "name_zh": "果糖 (Fructose)",
+    "substrate_class": "Monosaccharide",
+    "glycosidic_linkages": ["None"],
+    "host_loss_rate": 0.95,
+    "osmotic_laxative_threshold": 50.0
+  }
+]
