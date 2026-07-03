@@ -1,16 +1,5 @@
 [
-  {
-    "diet_id": "Diet_Western_Urban_002",
-    "name_zh": "现代城市高蛋白高脂膳食",
-    "baseline_glutamate": 30.0,
-    "baseline_tyrosine": 25.0,
-    "baseline_polyphenol": 0.0
-  },
-  {
-    "diet_id": "Diet_Jiangnan_003",
-    "name_zh": "东南沿海清淡膳食",
-    "baseline_glutamate": 15.0,
-    "baseline_tyrosine": 5.0,
-    "baseline_polyphenol": 25.0
-  }
+  {"diet_id": "Diet_High_Fiber_001", "name_zh": "传统多谷物高纤膳食", "baseline_glutamate": 5.0, "baseline_tyrosine": 5.0, "baseline_polyphenol": 5.0, "fiber_dilution": 1.5},
+  {"diet_id": "Diet_Western_Urban_002", "name_zh": "现代城市高蛋白高脂膳食", "baseline_glutamate": 30.0, "baseline_tyrosine": 25.0, "baseline_polyphenol": 2.0, "fiber_dilution": 0.2},
+  {"diet_id": "Diet_Jiangnan_003", "name_zh": "东南沿海清淡膳食 (江南饮食)", "baseline_glutamate": 15.0, "baseline_tyrosine": 5.0, "baseline_polyphenol": 25.0, "fiber_dilution": 1.0}
 ]
