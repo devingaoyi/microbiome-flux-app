@@ -1,0 +1,12 @@
+[
+  {"strain_id": "S_B_inf_CN01", "species_name": "B. infantis (本土株)", "eco_role": "Primary_Degrader", "cazymes": ["GH29", "GH95", "GH32", "GH2", "GH42"], "transport": "ABC", "location": "Intracellular"},
+  {"strain_id": "S_B_bif_CN02", "species_name": "B. bifidum (代理株)", "eco_role": "Primary_Degrader", "cazymes": ["GH29", "GH95", "GH2"], "transport": "MFS", "location": "Extracellular"},
+  {"strain_id": "S_B_fra_CN03", "species_name": "B. fragilis (华东城市株)", "eco_role": "Primary_Degrader", "cazymes": ["GH29", "GH95", "GH2", "GH13"], "transport": "PTS", "location": "Intracellular", "xylitol_dehydrogenase": true},
+  {"strain_id": "S_P_cop_CN04", "species_name": "P. copri (传统高纤株)", "eco_role": "Primary_Degrader", "cazymes": ["GH32", "GH13", "GH2"], "transport": "PTS", "location": "Intracellular"},
+  {"strain_id": "S_F_pra_CN05", "species_name": "F. prausnitzii (丁酸菌)", "eco_role": "Secondary_Consumer", "cazymes": [], "utilizes_intermediates": ["acetate", "lactate"], "produces": "butyrate"},
+  {"strain_id": "S_A_muc_CN06", "species_name": "A. muciniphila (粘膜株)", "eco_role": "Primary_Degrader", "cazymes": ["GH29", "GH95", "GH33"], "transport": "ABC", "location": "Intracellular"},
+  {"strain_id": "S_E_hal_CN07", "species_name": "A. hallii (交叉喂养株)", "eco_role": "Secondary_Consumer", "cazymes": [], "utilizes_intermediates": ["lactate"], "produces": "butyrate"},
+  {"strain_id": "S_L_bre_CN08", "species_name": "L. brevis (GABA专性株)", "eco_role": "Secondary_Consumer", "cazymes": ["GH13"], "gadB_system": true},
+  {"strain_id": "S_R_gna_CN09", "species_name": "R. gnavus (高脂富集株)", "eco_role": "Primary_Degrader", "cazymes": ["GH29", "GH95"], "transport": "PTS", "location": "Intracellular"},
+  {"strain_id": "S_C_dfi_CN10", "species_name": "C. difficile (条件致病毒素株)", "eco_role": "Proteolytic_Mixer", "cazymes": [], "proteolytic": true}
+]
