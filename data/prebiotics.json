@@ -1,18 +1,12 @@
 [
-  {
-    "prebiotic_id": "P_HMO_2FL_004",
-    "name_zh": "2'-岩藻糖基乳糖 (2'-FL)",
-    "substrate_class": "Complex_Oligosaccharide",
-    "glycosidic_linkages": ["α-(1→2)-Fuc", "β-(1→4)-Glc"],
-    "host_loss_rate": 0.00,
-    "osmotic_laxative_threshold": 15.0
-  },
-  {
-    "prebiotic_id": "P_MON_FRU_008",
-    "name_zh": "果糖 (Fructose)",
-    "substrate_class": "Monosaccharide",
-    "glycosidic_linkages": ["None"],
-    "host_loss_rate": 0.95,
-    "osmotic_laxative_threshold": 50.0
-  }
+  {"prebiotic_id": "P_ELI_FOS_001", "name_zh": "低聚果糖 (FOS)", "substrate_class": "Oligosaccharide", "glycosidic_linkages": ["β-(2→1)-Fructan"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 15.0},
+  {"prebiotic_id": "P_ELI_GOS_002", "name_zh": "低聚半乳糖 (GOS)", "substrate_class": "Oligosaccharide", "glycosidic_linkages": ["β-(1→4)-Galactan", "β-(1→6)-Galactan"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 12.0},
+  {"prebiotic_id": "P_ELI_INU_003", "name_zh": "菊粉 (Inulin)", "substrate_class": "Polysaccharide", "glycosidic_linkages": ["β-(2→1)-Fructan"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 20.0},
+  {"prebiotic_id": "P_HMO_2FL_004", "name_zh": "2'-岩藻糖基乳糖 (2'-FL)", "substrate_class": "Complex_Oligosaccharide", "glycosidic_linkages": ["α-(1→2)-Fuc", "β-(1→4)-Glc"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 15.0},
+  {"prebiotic_id": "P_HMO_LNN_005", "name_zh": "乳糖-N-新四糖 (LNnT)", "substrate_class": "Complex_Oligosaccharide", "glycosidic_linkages": ["β-(1→3)-Gal", "β-(1→4)-GlcNAc"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 15.0},
+  {"prebiotic_id": "P_MAC_RS2_006", "name_zh": "抗性淀粉 (RS2)", "substrate_class": "Complex_Polysaccharide", "glycosidic_linkages": ["α-(1→4)-Glc", "α-(1→6)-Glc"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 30.0},
+  {"prebiotic_id": "P_MON_FRU_008", "name_zh": "果糖 (Fructose)", "substrate_class": "Monosaccharide", "glycosidic_linkages": ["None"], "host_loss_rate": 0.95, "osmotic_laxative_threshold": 50.0},
+  {"prebiotic_id": "P_MAC_RS3_007", "name_zh": "抗性淀粉 (RS3)", "substrate_class": "Complex_Polysaccharide", "glycosidic_linkages": ["α-(1→4)-Glc", "α-(1→6)-Glc"], "host_loss_rate": 0.00, "osmotic_laxative_threshold": 30.0},
+  {"prebiotic_id": "P_ALC_XYL_010", "name_zh": "木糖醇 (Xylitol)", "substrate_class": "Sugar_Alcohol", "glycosidic_linkages": ["None"], "host_loss_rate": 0.20, "osmotic_laxative_threshold": 20.0},
+  {"prebiotic_id": "P_PPH_ELL_011", "name_zh": "鞣花单宁 (多酚类)", "substrate_class": "Polyphenol", "glycosidic_linkages": ["Polyphenol_Bond"], "host_loss_rate": 0.05, "osmotic_laxative_threshold": 5.0}
 ]
